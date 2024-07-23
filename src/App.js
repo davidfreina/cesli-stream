@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <h1>WebRTC VoIP Demo</h1>
       <VoipComponent></VoipComponent>
-    </div>
+    </div>//
   );
 };
 
